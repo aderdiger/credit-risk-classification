@@ -1,4 +1,4 @@
-# Optimizing Loan Default Prediction: Insights from Logistic Regression Analysis
+# Loan Default Prediction: Insights from Logistic Regression Analysis
 
 ## Overview of the Analysis
 
@@ -9,13 +9,13 @@ Exploration of the data revealed class imbalance, with a larger proportion of no
 ## Results
 
 * Logistic Regression:
-    Accuracy: 0.99
-    Precision:
-        Healthy Loans: 1.00
-        High-Risk Loans: 0.87
-    Recall:
-        Healthy Loans: 1.00
-        High-Risk Loans: 0.89
+    * Accuracy: 0.99
+    * Precision:
+        * Healthy Loans: 1.00
+        * High-Risk Loans: 0.87
+    * Recall:
+        * Healthy Loans: 1.00
+        * High-Risk Loans: 0.89
 
 ## Summary
 
